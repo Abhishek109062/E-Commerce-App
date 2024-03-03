@@ -1,4 +1,4 @@
-# Amazon Clone
+# E-Commerce App
 
 Full Stack Amazon Clone along with Admin Panel
 
