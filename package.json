@@ -1,0 +1,15 @@
+{
+  "name": "flutter-amazon-clone-tutorial-master",
+  "version": "1.0.0",
+  "description": "Full Stack Amazon Clone along with Admin Panel",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
