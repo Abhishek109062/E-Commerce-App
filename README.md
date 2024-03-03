@@ -1,6 +1,6 @@
 # E-Commerce App
 
-Full Stack Amazon Clone along with Admin Panel
+Full Stack E-Commerce App along with Admin Panel
 
 ## Features
 - Email & Password Authentication
